@@ -1,3 +1,6 @@
 meshing/constant/polyMesh
 *.foam
 log.*
+meshing/system/createPatchDict
+meshing/system/probesDict
+meshing/system/mirrorMeshDict
